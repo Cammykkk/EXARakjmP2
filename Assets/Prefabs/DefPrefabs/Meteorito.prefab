@@ -170,7 +170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66ad7682246e55a4a92f1c7737c504f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MovementMAnager1
-  velocidad: 1
+  velocidad: 2
 --- !u!4 &6164854748257961444 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a9bb8452b22cdb941ad586f5636b6d2e, type: 3}
