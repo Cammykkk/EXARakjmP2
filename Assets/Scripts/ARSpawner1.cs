@@ -4,7 +4,7 @@ using UnityEngine;
 public class ARSpawner1 : MonoBehaviour
 {
     [SerializeField] private GameObject prefabObstacle;
-    private GameObject currentObstacle; // Nombre corregido para evitar confusión
+    private GameObject currentObstacle;
 
     public void instantiateObstacle()
     {
